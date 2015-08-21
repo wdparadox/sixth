@@ -1,0 +1,31 @@
+body,div,input,p{
+    padding: 0;
+    margin: 0;
+}
+input{
+    width: 50px;
+}
+.btn p{
+    height: 20px;
+    line-height: 20px;
+    margin: 5px 0;
+}
+.zero{
+    width: 166px;
+}
+.btn1{
+    position: relative;
+    float: left;
+}
+#btn1{
+    margin-left: 10px;
+    margin-top: 1px;
+}
+#btn1 input{
+    display: block;
+    height: 20px;
+}
+#btn2 input{
+    height: 81px;
+    margin-left: 10px;
+}
